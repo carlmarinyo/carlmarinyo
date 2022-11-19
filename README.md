@@ -13,6 +13,11 @@
 
 - ⚡ Fun fact **Loves to play games**
 
+<style>
+*{
+background-color: rgb(22,22,22);
+} 
+</style>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/carlmarinyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlmarinyo" height="30" width="40" /></a>
