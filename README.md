@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obsessionxd&show_icons=true&locale=en" alt="obsessionxd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obsessionxd&" alt="obsessionxd" /></p>
