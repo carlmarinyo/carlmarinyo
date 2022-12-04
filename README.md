@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carl Mariño</h1>
 <h3 align="center">Zee God & Discisple</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/JpuK1ztS6VIAAAAd/patrick-dancing-patrick-star.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/s45HmDEGbUsAAAAi/3d-monkey-monkey-eating.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obsessionxd&label=Profile%20views&color=0e75b6&style=flat" alt="obsessionxd" /> </p>
 
