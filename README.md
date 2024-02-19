@@ -1,5 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orfox32&theme=nightowl&show_icons=true&locale=en" alt="orfox32" />
-  <a href="https://github.com/orfox32/ZGAD">
+
 <h1 align="center">Hi 👋, I'm Carl Mariño</h1>
 <h3 align="center">Zee God & Discisple</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/s45HmDEGbUsAAAAi/3d-monkey-monkey-eating.gif">
