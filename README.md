@@ -17,8 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/carlmarinyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlmarinyo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carl jerome mariño" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carl jerome mariño" height="30" width="40" /></a>
-<a href="https://fb.com/carl mariño" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carl mariño" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marinojerome2@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marinojerome2@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/carlmarinyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlmarinyo" height="30" width="40" /></a>
 </p>
 
