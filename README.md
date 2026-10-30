@@ -72,8 +72,8 @@ A disaster response platform developed for the Santa Maria, Bulacan MDRRMO.
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlmarinyo&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmarinyo&layout=compact&hide_border=true&theme=transparent" height="165" />
+  <img src="github-stats-extended.vercel.app/api?username=carlmarinyo&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="github-stats-extended.vercel.app/api/top-langs/?username=carlmarinyo&layout=compact&hide_border=true&theme=transparent" height="165" />
 </p>
 
 <p align="center">
