@@ -69,11 +69,12 @@ A disaster response platform developed for the Santa Maria, Bulacan MDRRMO.
 - Cross-platform mobile application for residents and emergency responders.
 - Geospatial mapping, responder coordination, and AI-assisted report verification.
 
+
 ### GitHub Statistics
 
 <p align="center">
-  <img src="github-stats-extended.vercel.app/api?username=carlmarinyo&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="github-stats-extended.vercel.app/api/top-langs/?username=carlmarinyo&layout=compact&hide_border=true&theme=transparent" height="165" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=carlmarinyo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=carlmarinyo&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
